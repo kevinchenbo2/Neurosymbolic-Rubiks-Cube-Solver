@@ -1,1 +1,1 @@
-# Neurosymbolic-Rubik-s-Cube-Solver
+# Neurosymbolic-Rubiks-Cube-Solver
